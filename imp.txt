@@ -29,3 +29,20 @@ Javascript Library used in tablepress wordpress plugin
 ////////////////////////////////////////////////////////
 
 https://datatables.net/
+
+~
+
+///////////////////////////////////////////
+Website Builder / Classified Website
+//////////////////////////////////////////
+
+https://www.simbla.com/
+
+Software - Windows and Mac
+https://mobirise.com/
+
+Codecanyon
+Architect - HTML and Site Builder
+
+Codecanyon
+LaraClassified - Classified Ads Web Application

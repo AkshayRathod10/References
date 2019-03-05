@@ -54,3 +54,12 @@ Grape.js - GrapesJS is an open-source, multi-purpose, Web Builder Framework whic
 If you're here just to build stuff faster, open and bookmark the official demos and use them when you need it.
 
 http://websico.com
+
+
+///////////////////////////////////
+Attendance Software / Application
+//////////////////////////////////
+
+https://www.timecamp.com/blog/2018/06/top-7-mobile-attendance-tracking-apps/
+
+https://www.maketecheasier.com/best-attendance-apps-android/

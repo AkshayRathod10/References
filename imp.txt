@@ -8,7 +8,18 @@ https://stevencotterill.com/articles/adding-google-recaptcha-v3-to-a-php-form
 stackoverflow 
 ///////////////////////////////////
 
-https://wordpress.stackexchange.com/questions/40456/how-to-override-existing-plugin-action-with-new-action/40459
+Data sort wordpress
+
+https://stackoverflow.com/questions/9848593/wordpress-dynamic-sorting-of-content-when-a-button-link-is-clicked/11371436
+
+https://wordpress.stackexchange.com/questions/12916/is-there-any-way-of-changing-the-post-order-via-user-click
+
+https://wordpress.stackexchange.com/questions/255260/what-to-do-in-this-case-after-wp-query-has-been-modified
+
+https://wordpress.stackexchange.com/questions/274883/can-i-modify-a-wp-query-instance-or-clone-it-with-modifications
+
+https://wordpress.stackexchange.com/questions/190129/modify-wordpress-loop-after-it-has-been-run?rq=1
+
 
 //////////////////////////////////
 Domain information 
@@ -19,6 +30,8 @@ https://www.wolframalpha.com
 ////////////////////////////////
 wordpress.stackexchange.com
 ///////////////////////////////
+
+https://wordpress.stackexchange.com/questions/40456/how-to-override-existing-plugin-action-with-new-action/40459
 
 https://wordpress.stackexchange.com/questions/114364/show-parent-child-pages-with-featured-image-and-hide-the-current-page
 

@@ -91,3 +91,13 @@ Bootstrap
 ////////////////////////////////
 
 https://bootsnipp.com/snippets/35p8X - 3 level menu
+
+////////////////////////////////
+API
+///////////////////////////////
+
+https://www.football-data.org/
+
+https://public-apis.xyz/
+
+https://github.com/toddmotto/public-apis

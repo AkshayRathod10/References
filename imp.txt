@@ -101,3 +101,10 @@ https://www.football-data.org/
 https://public-apis.xyz/
 
 https://github.com/toddmotto/public-apis
+
+
+///////////////////////////////
+HTML CSS Javascript
+//////////////////////////////
+
+https://htmlcheatsheet.com/js/ - cheatsheet

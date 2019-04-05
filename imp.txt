@@ -37,6 +37,8 @@ https://wordpress.stackexchange.com/questions/114364/show-parent-child-pages-wit
 
 https://wordpress.stackexchange.com/questions/60292/wp-query-to-get-child-pages-of-current-page
 
+https://mhthemes.com/support/overriding-parent-theme-functions-child-theme-tutorial/ - wordpress override parent functions.php
+
 /////////////////////////////////////////////////////////
 Javascript Library used in tablepress wordpress plugin
 ////////////////////////////////////////////////////////

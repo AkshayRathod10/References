@@ -2,7 +2,11 @@ Recaptcha v3 in PHP form
 
 https://stevencotterill.com/articles/adding-google-recaptcha-v3-to-a-php-form
 
+////////////////////////////////////
+Wordpress
+///////////////////////////////////
 
+https://code.tutsplus.com/tutorials/dynamically-adding-four-footer-widget-areas--cms-22168
 
 ////////////////////////////////////
 stackoverflow 

@@ -1,0 +1,46 @@
+06th May 2019 
+
+Error #1
+
+GTMetrix API Was not working because it requires "https" 
+
+GTMetrix is a website to test the other website.
+
+To access the result page requires username and password
+
+username = email ID
+password = API Key
+
+function gtm($url,$username,$password){
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_USERPWD, "$username:$password");
+    curl_setopt($ch, CURLOPT_HTTPAUTH, CURLAUTH_BASIC);
+    $output = curl_exec($ch);
+    $info = curl_getinfo($ch);
+    curl_close($ch);
+    $test = json_decode($output);
+    return $test;
+}
+
+$test = gtm($url,$username,$password);
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+07th May 2019
+
+Error #2
+
+Input not supported - Monitor - Ubuntu 18.04
+
+system had graphic card 
+
+i5 9400f processor - no integrated graphic card
+1 GB external graphic
+
+resolution:
+
+sudo apt-get install nvidia-347
+

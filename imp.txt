@@ -102,6 +102,8 @@ https://bootsnipp.com/snippets/35p8X - 3 level menu
 
 https://bootsnipp.com/snippets/0lMgD - Mega Menu
 
+http://vadikom.github.io/smartmenus/src/demo/ - Best Menu
+
 ////////////////////////////////
 API
 ///////////////////////////////

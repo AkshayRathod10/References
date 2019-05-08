@@ -40,7 +40,31 @@ system had graphic card
 i5 9400f processor - no integrated graphic card
 1 GB external graphic
 
-resolution:
+solution:
 
 sudo apt-get install nvidia-347
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+08th May 2019
+
+Error #3
+
+SmartMenus - Plugin for multi level menu. 
+
+has a bootstrap addon.
+
+was not able to scroll on mobile menu with fixed header in bootstrap 4.2
+
+solution:
+
+@media only screen and (max-width: 700px){
+
+  .navbar-collapse {
+  max-height: 280px;
+  overflow-y: auto;
+}
+}
 

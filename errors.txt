@@ -81,3 +81,37 @@ solution:
 
 https://github.com/woocommerce/woocommerce/pull/23665/files
 
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+14th May 2019
+
+Error #5
+
+Was not able to create FTP account to a specific folder.
+
+solution:
+
+was adding domain name after the public_html in the path of that specific folder.
+for example : 
+
+public_html/jokendar.com/test <- Wrong.
+public_html/test <- Right.
+
+14th May 2019
+
+Error #6
+
+subdomain was redirecting to sub directory on the server
+
+subdomain: ajay.jokendar.com
+was landing on jokendar.com/ajay
+
+solution:
+
+create .htaccess file and add following code.
+
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^www.jokendar.com
+RewriteRule ^mydir/(.*)$ https://ajay.jokendar.com/ajay/$1 [L,R=301]

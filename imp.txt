@@ -143,3 +143,9 @@ https://www.matrify.com/en/support-docs-advanced-import-csv
 https://phppot.com/php/how-to-handle-csv-with-php-read-write-import-export-with-database/
 
 https://www.daniweb.com/programming/web-development/threads/371308/how-to-do-checking-before-importing-the-csv-file-by-php
+
+/////////////////////////////
+Laravel
+///////////////////////////
+
+https://github.com/jeremykenedy/laravel-auth

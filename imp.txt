@@ -149,3 +149,9 @@ Laravel
 ///////////////////////////
 
 https://github.com/jeremykenedy/laravel-auth
+
+/////////////////////////////
+Hosting
+///////////////////////////
+
+https://www.quora.com/Can-I-host-my-own-website-with-my-own-computer-How-would-I-go-about-doing-that
